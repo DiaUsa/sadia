@@ -35,7 +35,7 @@ function sendEmail() {
 function downloadCV() {
   // Replace "cv_file_path.pdf" with the actual path to your CV file.
   // You can use a direct link to the file or use a relative path to the file from the HTML file location.
-  const cvFilePath = "https://github.com/aliusa557/usama/raw/main/CV.UsamaMehboob.pdf";
+  const cvFilePath = "https://github.com/DiaUsa/sadia/blob/main/DiaaCV.pdf";
 
   // Create an anchor element to trigger the download
   const anchor = document.createElement("a");
